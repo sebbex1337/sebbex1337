@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about technology, coding, and always eager to learn new things and take on challenges. Here's a bit about me:
 
 ## About Me
-I'm 25 years old from Denmark, currently studying computer science at KEA. 
+I'm 26 years old from Denmark, just graduated from KEA as a computer scientist. 
 
 ## My GitHub Stats
 
